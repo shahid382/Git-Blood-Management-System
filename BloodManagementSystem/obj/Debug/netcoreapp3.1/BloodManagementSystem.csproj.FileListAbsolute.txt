@@ -1,0 +1,21 @@
+C:\Users\mindc1july62\Desktop\New folder\Case Study-3\unitTest\UnitTestingApi\UnitTestingApi\obj\Debug\netcoreapp3.1\BloodManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mindc1july62\Desktop\New folder\Case Study-3\unitTest\UnitTestingApi\UnitTestingApi\obj\Debug\netcoreapp3.1\BloodManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1july62\Desktop\New folder\Case Study-3\unitTest\UnitTestingApi\UnitTestingApi\obj\Debug\netcoreapp3.1\BloodManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mindc1july62\Desktop\New folder\Case Study-3\unitTest\UnitTestingApi\UnitTestingApi\obj\Debug\netcoreapp3.1\BloodManagementSystem.AssemblyInfo.cs
+C:\Users\mindc1july62\Desktop\New folder\Case Study-3\unitTest\UnitTestingApi\UnitTestingApi\obj\Debug\netcoreapp3.1\BloodManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mindc1july62\Desktop\New folder\Case Study-3\unitTest\UnitTestingApi\UnitTestingApi\obj\Debug\netcoreapp3.1\BloodManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mindc1july62\Desktop\New folder\Case Study-3\unitTest\UnitTestingApi\UnitTestingApi\obj\Debug\netcoreapp3.1\BloodManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mindc1july62\Desktop\Mohammed.Shahid@mindtree.com6\Case Study\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mindc1july62\Desktop\Mohammed.Shahid@mindtree.com6\Case Study\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1july62\Desktop\Mohammed.Shahid@mindtree.com6\Case Study\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mindc1july62\Desktop\Mohammed.Shahid@mindtree.com6\Case Study\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.AssemblyInfo.cs
+C:\Users\mindc1july62\Desktop\Mohammed.Shahid@mindtree.com6\Case Study\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mindc1july62\Desktop\Mohammed.Shahid@mindtree.com6\Case Study\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mindc1july62\Desktop\Mohammed.Shahid@mindtree.com6\Case Study\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mindc1july62\Desktop\M1092110_MSA6\Case Study-3\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mindc1july62\Desktop\M1092110_MSA6\Case Study-3\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1july62\Desktop\M1092110_MSA6\Case Study-3\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mindc1july62\Desktop\M1092110_MSA6\Case Study-3\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.AssemblyInfo.cs
+C:\Users\mindc1july62\Desktop\M1092110_MSA6\Case Study-3\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mindc1july62\Desktop\M1092110_MSA6\Case Study-3\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mindc1july62\Desktop\M1092110_MSA6\Case Study-3\BloodManagementSystem\obj\Debug\netcoreapp3.1\BloodManagementSystem.MvcApplicationPartsAssemblyInfo.cache
